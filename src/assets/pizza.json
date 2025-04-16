@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "name": "Margherita",
+    "description": "Classic delight with 100% real mozzarella cheese",
+    "price": 6.99,
+    "image": "pizza-1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Pepperoni",
+    "description": "Topped with pepperoni & extra cheese",
+    "price": 8.49,
+    "image": "pizza-2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Veggie Supreme",
+    "description": "Loaded with fresh veggies and cheese",
+    "price": 7.99,
+    "image": "pizza-3.jpg"
+  },
+  {
+    "id": 4,
+    "name": "BBQ Chicken",
+    "description": "Smoky BBQ chicken with onions and peppers",
+    "price": 9.49,
+    "image": "pizza-4.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Hawaiian",
+    "description": "A tropical blend of ham and pineapple",
+    "price": 8.29,
+    "image": "pizza-5.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Four Cheese",
+    "description": "Mozzarella, cheddar, parmesan & blue cheese",
+    "price": 9.99,
+    "image": "pizza-6.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Spicy Paneer",
+    "description": "Paneer chunks with spicy seasoning and capsicum",
+    "price": 8.99,
+    "image": "pizza-7.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Meat Lovers",
+    "description": "Packed with sausage, ham, bacon & pepperoni",
+    "price": 10.49,
+    "image": "pizza-8.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Mushroom Feast",
+    "description": "A savory mix of mushrooms and cheese",
+    "price": 7.49,
+    "image": "pizza-9.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Tandoori Chicken",
+    "description": "Indian-style tandoori chicken on a cheesy base",
+    "price": 9.29,
+    "image": "pizza-10.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Cheese Burst",
+    "description": "Cheese lovers’ dream with extra cheese inside",
+    "price": 9.59,
+    "image": "pizza-11.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Mexican Green Wave",
+    "description": "Spicy Mexican herbs with crunchy veggies",
+    "price": 8.69,
+    "image": "pizza-12.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Farmhouse",
+    "description": "A country-style mix of veggies on cheesy crust",
+    "price": 8.89,
+    "image": "pizza-13.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Peri Peri Chicken",
+    "description": "Spicy peri peri chicken with a fiery flavor",
+    "price": 9.99,
+    "image": "pizza-14.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Deluxe Veggie",
+    "description": "Veggie overload with olives and jalapeños",
+    "price": 8.79,
+    "image": "pizza-15.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Buffalo Chicken",
+    "description": "Tangy buffalo sauce with grilled chicken",
+    "price": 9.49,
+    "image": "pizza-16.jpg"
+  },
+  {
+    "id": 17,
+    "name": "Cheesy Garlic",
+    "description": "Garlicky goodness with loads of cheese",
+    "price": 7.99,
+    "image": "pizza-17.jpg"
+  },
+  {
+    "id": 18,
+    "name": "Italian Sausage",
+    "description": "Rich Italian sausage with herbs and cheese",
+    "price": 9.29,
+    "image": "pizza-18.jpg"
+  },
+  {
+    "id": 19,
+    "name": "Double Cheese Margherita",
+    "description": "Extra cheese, extra love",
+    "price": 7.99,
+    "image": "pizza-19.jpg"
+  },
+  {
+    "id": 20,
+    "name": "Pesto Veggie",
+    "description": "Pesto base topped with fresh veggies and cheese",
+    "price": 8.59,
+    "image": "pizza-20.jpg"
+  }
+]

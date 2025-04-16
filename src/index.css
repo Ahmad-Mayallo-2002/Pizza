@@ -1,0 +1,104 @@
+@import "tailwindcss";
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: bold;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+.container {
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.center-y {
+  display: flex;
+  align-items: center;
+}
+
+.center-x {
+  display: flex;
+  justify-content: center;
+}
+
+.space-between {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.main-button {
+  padding: 12px;
+  border-radius: 8px;
+  color: #fff;
+  background-color: oklch(70.5% 0.213 47.604);
+  cursor: pointer;
+  transition-duration: 300ms;
+  &:hover {
+    background-color: oklch(64.6% 0.222 41.116);
+  }
+}
+
+.bg-image {
+  background-image: url(./home-bg.jpg);
+  background-size: cover;
+  background-position: center;
+  background-blend-mode: darken;
+}
+
+.hero .swiper-pagination-bullet {
+  background-color: #fff;
+  opacity: 1;
+}
+
+.swiper-pagination {
+  position: static !important;
+  margin-top: 2rem;
+}
+
+.swiper-pagination .swiper-pagination-bullet {
+  width: 15px !important;
+  height: 15px !important;
+}
+
+.swiper-pagination-bullet-active {
+  background-color: orange !important;
+}
+
+.main-heading {
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 45px;
+  color: #333;
+  text-shadow: 2px 2px orange, 4px 4px orangered;
+  margin-bottom: 2rem;
+}
+
+.contact .info:hover {
+  background-color: rgb(255 105 0);
+  color: #fff;
+  &:hover {
+    .icon {
+      background-color: #fff;
+      color: rgb(255 105 0);
+    }
+    p {
+      color: #fff;
+    }
+  }
+}
