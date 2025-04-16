@@ -55,7 +55,7 @@ html {
 }
 
 .bg-image {
-  background-image: url(./home-bg.jpg);
+  background-image: url(./assets/home-bg.jpg);
   background-size: cover;
   background-position: center;
   background-blend-mode: darken;
